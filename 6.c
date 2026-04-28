@@ -1,0 +1,8 @@
+Output:
+
+Edges in MST:
+Edge cost: 1
+Edge cost: 1
+Edge cost: 2
+
+Result: Thus, the Minimum Spanning Tree is obtained successfully using Prim’s Algorithm, and the minimum edge costs are 1, 1, and 2.

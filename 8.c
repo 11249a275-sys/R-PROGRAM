@@ -1,0 +1,5 @@
+Sample Output:
+
+Maximum flow: 5
+
+Result: Thus, the maximum flow of the given network is calculated successfully using the simplified Ford–Fulkerson method.

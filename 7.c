@@ -1,0 +1,9 @@
+Sample Output:
+
+Shortest distances:
+0 -> 0 = 0
+0 -> 1 = 2
+0 -> 2 = 2
+0 -> 3 = 1
+
+Result: Thus, the shortest path from the source vertex to all other vertices was successfully found using Dijkstra’s Algorithm.

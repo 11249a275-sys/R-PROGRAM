@@ -1,0 +1,7 @@
+Sample Output:
+
+Vertex Cover:
+0 1
+2 3
+
+Result: Thus, the vertex cover of the given graph is obtained using a greedy approximation algorithm.

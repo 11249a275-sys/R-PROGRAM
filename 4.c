@@ -1,0 +1,7 @@
+
+
+Sample Output: 
+
+Maximum profit = 240.00
+
+Result: Thus, the program to solve the Fractional Knapsack Problem using Greedy Method is executed successfully and the maximum profit is obtained.

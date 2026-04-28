@@ -1,0 +1,8 @@
+Output:
+
+Remaining space in bins:
+Bin 1: 2.00
+Bin 2: 14.00
+Bin 3: 14.00
+
+Result: Thus, the program is executed successfully, and all items are placed using the First Fit Bin Packing Algorithm, leaving the remaining capacities as shown above.
